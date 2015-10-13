@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jbehave jar files">
+    <CLASSES>
+      <root url="file://C:/Program Files/jbehave jar files" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/jbehave jar files" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/jbehave jar files" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/jbehave jar files" recursive="false" type="SOURCES" />
+  </library>
+</component>
